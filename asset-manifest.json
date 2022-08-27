@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Timeline/static/css/main.d6548c81.css",
+    "main.js": "/Timeline/static/js/main.0fa57efd.js",
+    "static/js/787.279399b8.chunk.js": "/Timeline/static/js/787.279399b8.chunk.js",
+    "static/media/react.svg": "/Timeline/static/media/react.0e1a7d159e8f4c1f1cd1863c935959e7.svg",
+    "static/media/swift.svg": "/Timeline/static/media/swift.a96a38ae877e4badbdce4a9c3a933ac7.svg",
+    "static/media/android.svg": "/Timeline/static/media/android.d63b822a57bd433294c07bc4bfbeb5be.svg",
+    "static/media/phonegap.svg": "/Timeline/static/media/phonegap.4193a614447be1100afe21115d5adb53.svg",
+    "static/media/css.svg": "/Timeline/static/media/css.3ea8289ff870697383101d6d9d25ca0d.svg",
+    "static/media/react_native.svg": "/Timeline/static/media/react_native.688baba389c49b3795f3e55b6578cb91.svg",
+    "static/media/xamarin.svg": "/Timeline/static/media/xamarin.4a6a3c8b22fa1d163889e0d7010b1314.svg",
+    "static/media/js.svg": "/Timeline/static/media/js.94a5262a095f291f584ef20addce827d.svg",
+    "static/media/ios.svg": "/Timeline/static/media/ios.d360cda5437af3d6e8488da69e11caa2.svg",
+    "static/media/ionic.svg": "/Timeline/static/media/ionic.1868f41b4e7e538b404d31ba8fc5982b.svg",
+    "static/media/flutter.svg": "/Timeline/static/media/flutter.b9ca4d4b0de900bd9ec01621441690cb.svg",
+    "static/media/cordova.svg": "/Timeline/static/media/cordova.763221bd4a2fe413b042db1fb318ce7d.svg",
+    "index.html": "/Timeline/index.html",
+    "static/media/html.svg": "/Timeline/static/media/html.2ca4721fdabc0398165b84c4ecd14215.svg",
+    "static/media/angular.svg": "/Timeline/static/media/angular.1e1ba75402a91a8efc7b66efba609b7d.svg",
+    "static/media/windows.svg": "/Timeline/static/media/windows.a053ae1f9fcefeb13a4854295647f4a9.svg",
+    "main.d6548c81.css.map": "/Timeline/static/css/main.d6548c81.css.map",
+    "main.0fa57efd.js.map": "/Timeline/static/js/main.0fa57efd.js.map",
+    "787.279399b8.chunk.js.map": "/Timeline/static/js/787.279399b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6548c81.css",
+    "static/js/main.0fa57efd.js"
+  ]
+}
