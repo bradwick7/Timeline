@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.container {
+  width: 100%;
+  height: 100%;
+  background: #f4f4f4;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  cursor: auto;
+  user-select: none;
+}
+
+.name {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #494949;
+}
+
+.date {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #494949;
+}
+
+.name {
+  width: 50%;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.row {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #494949;
+  margin-bottom: 10px;
+}
+
+.span {
+  font-weight: 600;
+}
+
+.description {
+  text-align: justify;
+}
+
+.bottom {
+  width: 90%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.image {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 120px;
+  height: 120px;
+}
+
+#app {
+  height: 100%;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
